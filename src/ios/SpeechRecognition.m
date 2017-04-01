@@ -7,7 +7,7 @@
 #import <Cordova/CDV.h>
 #import <Speech/Speech.h>
 
-#define DEFAULT_LANGUAGE @"en-US"
+#define DEFAULT_LANGUAGE @"de-DE"
 #define DEFAULT_MATCHES 5
 
 #define MESSAGE_MISSING_PERMISSION @"Missing permission"
